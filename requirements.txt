@@ -1,0 +1,7 @@
+tensorflow
+pynvim
+ipython
+jupyter
+pillow
+falcon
+gunicorn
